@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# INSight Diabetes
 
 Project Overview:    July 7, 2024
 
@@ -6,7 +6,7 @@ Project Overview:    July 7, 2024
 - Tech Stack: Python, Biopython, Flask, HTML, CSS
 - Project Duration: April 24 - May 24
 
-This is a web application designed to predict the potential risk of type 2 diabetes by analyzing Single Nucleotide Polymorphisms (SNPs) in the input gene sequence. The application collects and utilizes gene sequence data from NCBI and ClinVar databases.
+INSight Diabetes is a web application designed to predict the potential risk of type 2 diabetes by analyzing Single Nucleotide Polymorphisms (SNPs) in the input gene sequence. The application collects and utilizes gene sequence data from NCBI and ClinVar databases.
 
 Features
 
@@ -19,11 +19,11 @@ How to Run the Project
 
 1. Clone the repository from GitHub:
 
-        git clone https :// github .com/your − repo/Diabetes-Prediction. git
+        git clone https :// github .com/your − repo/INSight − Diabetes . git
    
 2. Navigate to the project directory:
 
-        cd Diabetes-Prediction
+        cd INSight−Diabetes
 
 3. Install the required dependencies:
 
